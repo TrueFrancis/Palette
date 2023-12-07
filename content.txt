@@ -1,9 +1,11 @@
- Farbpalette
+  Farbpalette
 
 
      Rot
      Grün
+hell grün
 Blau
+
 Yellow
 Magenta
 
