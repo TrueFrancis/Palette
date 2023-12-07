@@ -3,7 +3,7 @@
 
      Rot
      Grün
-Blau
+ hell Blau
 Yellow
 Magenta
 
