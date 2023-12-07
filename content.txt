@@ -4,7 +4,9 @@
      Rot
      Grün
 Blau
-Gelb
+Yellow
 Magenta
 
 Sind alle tolle Farben.
+
+what ever
