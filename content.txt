@@ -1,8 +1,8 @@
  Farbalette
 
 
-Rot
-Grün
+     Rot
+     Grün
 Blau
 Gelb
 Magenta
